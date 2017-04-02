@@ -1,146 +1,170 @@
-
-Starting Nmap 7.40 ( https://nmap.org ) at 2017-03-30 15:49 EDT
+Starting Nmap 7.40 ( https://nmap.org ) at 2017-03-31 19:13 EDT
 Nmap scan report for OpenWrt.lan (10.3.31.1)
-Host is up (0.0059s latency).
+Host is up (0.0029s latency).
 MAC Address: C8:B3:73:25:1A:93 (Cisco-Linksys)
 Nmap scan report for 10.3.31.106
-Host is up (0.071s latency).
+Host is up (0.10s latency).
 MAC Address: 00:0C:29:56:61:37 (VMware)
+Nmap scan report for 10.3.31.120
+Host is up (0.57s latency).
+MAC Address: F4:5C:89:9C:45:D3 (Apple)
 Nmap scan report for 10.3.31.128
-Host is up (0.0030s latency).
+Host is up (0.0027s latency).
 MAC Address: 00:0C:29:A2:87:09 (VMware)
 Nmap scan report for 10.3.31.129
-Host is up (0.0083s latency).
+Host is up (0.55s latency).
 MAC Address: 00:0F:13:95:04:52 (Nisca)
+Nmap scan report for 10.3.31.150
+Host is up (0.55s latency).
+MAC Address: A4:5E:60:E4:DA:D7 (Apple)
 Nmap scan report for 10.3.31.160
-Host is up (0.087s latency).
+Host is up (0.015s latency).
 MAC Address: 00:0C:29:FC:ED:C4 (VMware)
 Nmap scan report for p11.lan (10.3.31.163)
-Host is up (0.089s latency).
+Host is up (0.015s latency).
 MAC Address: 00:0C:29:1C:7E:86 (VMware)
+Nmap scan report for 10.3.31.164
+Host is up (0.56s latency).
+MAC Address: 3C:15:C2:DD:D9:9C (Apple)
 Nmap scan report for p5.lan (10.3.31.189)
-Host is up (0.11s latency).
+Host is up (0.0050s latency).
 MAC Address: 00:0C:29:49:98:6A (VMware)
-Nmap scan report for 10.3.31.197
-Host is up (0.12s latency).
-MAC Address: 00:C0:CA:81:AA:30 (ALFA)
 Nmap scan report for 10.3.31.237
-Host is up (0.013s latency).
+Host is up (0.38s latency).
 MAC Address: 00:B1:40:17:08:AB (Unknown)
 Nmap scan report for 10.3.31.238
-Host is up (0.012s latency).
+Host is up (0.41s latency).
 MAC Address: 00:0C:29:74:F5:E2 (VMware)
 Nmap scan report for 10.3.31.243
-Host is up (0.018s latency).
+Host is up (0.41s latency).
 MAC Address: 00:0C:29:47:7A:75 (VMware)
-Nmap scan report for 10.3.31.108
+Nmap scan report for 10.3.31.110
 Host is up.
-Nmap done: 256 IP addresses (12 hosts up) scanned in 2.75 seconds
+Nmap done: 256 IP addresses (14 hosts up) scanned in 3.02 seconds
 
 
 
-Starting Nmap 7.40 ( https://nmap.org ) at 2017-03-30 15:52 EDT
+Starting Nmap 7.40 ( https://nmap.org ) at 2017-03-31 19:28 EDT
 Nmap scan report for OpenWrt.lan (10.3.31.1)
-Host is up (0.0068s latency).
+Host is up (0.0028s latency).
 Not shown: 998 closed ports
 PORT   STATE SERVICE
 22/tcp open  ssh
 53/tcp open  domain
+MAC Address: C8:B3:73:25:1A:93 (Cisco-Linksys)
 
-Nmap done: 1 IP address (1 host up) scanned in 39.86 seconds
+Nmap done: 1 IP address (1 host up) scanned in 41.33 seconds
 
-
-Starting Nmap 7.40 ( https://nmap.org ) at 2017-03-30 15:53 EDT
+Starting Nmap 7.40 ( https://nmap.org ) at 2017-03-31 19:29 EDT
 Nmap scan report for 10.3.31.106
-Host is up (0.0035s latency).
+Host is up (0.0093s latency).
 Not shown: 999 filtered ports
 PORT   STATE SERVICE
 80/tcp open  http
+MAC Address: 00:0C:29:56:61:37 (VMware)
 
-Nmap done: 1 IP address (1 host up) scanned in 6.35 seconds
+Nmap done: 1 IP address (1 host up) scanned in 5.03 seconds
 
+Starting Nmap 7.40 ( https://nmap.org ) at 2017-03-31 19:29 EDT
+Nmap scan report for 10.3.31.120
+Host is up (0.0031s latency).
+All 1000 scanned ports on 10.3.31.120 are closed
+MAC Address: F4:5C:89:9C:45:D3 (Apple)
 
-Starting Nmap 7.40 ( https://nmap.org ) at 2017-03-30 15:58 EDT
+Nmap done: 1 IP address (1 host up) scanned in 9.36 seconds
+
+Starting Nmap 7.40 ( https://nmap.org ) at 2017-03-31 19:30 EDT
 Nmap scan report for 10.3.31.128
-Host is up (0.0049s latency).
+Host is up (0.0024s latency).
 Not shown: 999 filtered ports
 PORT   STATE SERVICE
 21/tcp open  ftp
+MAC Address: 00:0C:29:A2:87:09 (VMware)
 
-Nmap done: 1 IP address (1 host up) scanned in 6.71 seconds
+Nmap done: 1 IP address (1 host up) scanned in 4.45 seconds
 
-
-Starting Nmap 7.40 ( https://nmap.org ) at 2017-03-30 16:24 EDT
+Starting Nmap 7.40 ( https://nmap.org ) at 2017-03-31 19:30 EDT
 Nmap scan report for 10.3.31.129
-Host is up (0.018s latency).
+Host is up (0.063s latency).
 All 1000 scanned ports on 10.3.31.129 are filtered
 MAC Address: 00:0F:13:95:04:52 (Nisca)
 
-Nmap done: 1 IP address (1 host up) scanned in 22.37 seconds
+Nmap done: 1 IP address (1 host up) scanned in 64.94 seconds
 
+Starting Nmap 7.40 ( https://nmap.org ) at 2017-03-31 19:32 EDT
+Nmap done: 1 IP address (0 hosts up) scanned in 0.47 seconds
 
-Starting Nmap 7.40 ( https://nmap.org ) at 2017-03-30 16:02 EDT
-Nmap scan report for 10.3.31.60
-Host is up (0.000025s latency).
-All 1000 scanned ports on 10.3.31.60 are filtered
+Starting Nmap 7.40 ( https://nmap.org ) at 2017-03-31 19:33 EDT
+Nmap scan report for 10.3.31.160
+Host is up (0.0027s latency).
+Not shown: 999 filtered ports
+PORT   STATE SERVICE
+23/tcp open  telnet
+MAC Address: 00:0C:29:FC:ED:C4 (VMware)
 
-Nmap done: 1 IP address (1 host up) scanned in 15.14 seconds
+Nmap done: 1 IP address (1 host up) scanned in 4.97 seconds
 
-
-Starting Nmap 7.40 ( https://nmap.org ) at 2017-03-30 15:55 EDT
-Nmap scan report for 10.3.31.163
-Host is up (0.0056s latency).
+Starting Nmap 7.40 ( https://nmap.org ) at 2017-03-31 19:33 EDT
+Nmap scan report for p11.lan (10.3.31.163)
+Host is up (0.0026s latency).
 Not shown: 998 filtered ports
 PORT    STATE SERVICE
 80/tcp  open  http
 443/tcp open  https
+MAC Address: 00:0C:29:1C:7E:86 (VMware)
 
-Nmap done: 1 IP address (1 host up) scanned in 4.69 seconds
+Nmap done: 1 IP address (1 host up) scanned in 4.77 seconds
 
+Starting Nmap 7.40 ( https://nmap.org ) at 2017-03-31 19:34 EDT
+Nmap scan report for 10.3.31.164
+Host is up (0.0038s latency).
+All 1000 scanned ports on 10.3.31.164 are closed
+MAC Address: 3C:15:C2:DD:D9:9C (Apple)
 
-Starting Nmap 7.40 ( https://nmap.org ) at 2017-03-30 16:26 EDT
+Nmap done: 1 IP address (1 host up) scanned in 11.78 seconds
+
+Starting Nmap 7.40 ( https://nmap.org ) at 2017-03-31 19:34 EDT
 Nmap scan report for p5.lan (10.3.31.189)
-Host is up (0.0014s latency).
+Host is up (0.0089s latency).
 All 1000 scanned ports on p5.lan (10.3.31.189) are filtered
 MAC Address: 00:0C:29:49:98:6A (VMware)
 
-Nmap done: 1 IP address (1 host up) scanned in 22.44 seconds
+Nmap done: 1 IP address (1 host up) scanned in 22.49 seconds
 
-
-Starting Nmap 7.40 ( https://nmap.org ) at 2017-03-30 16:05 EDT
+Starting Nmap 7.40 ( https://nmap.org ) at 2017-03-31 19:35 EDT
 Nmap scan report for 10.3.31.237
-Host is up (0.013s latency).
+Host is up (0.029s latency).
 Not shown: 998 filtered ports
 PORT    STATE SERVICE
 25/tcp  open  smtp
 465/tcp open  smtps
+MAC Address: 00:B1:40:17:08:AB (Unknown)
 
-Nmap done: 1 IP address (1 host up) scanned in 14.57 seconds
+Nmap done: 1 IP address (1 host up) scanned in 7.05 seconds
 
-
-Starting Nmap 7.40 ( https://nmap.org ) at 2017-03-30 16:06 EDT
+Starting Nmap 7.40 ( https://nmap.org ) at 2017-03-31 19:36 EDT
 Nmap scan report for 10.3.31.238
-Host is up (0.0056s latency).
+Host is up (0.0020s latency).
 Not shown: 999 filtered ports
 PORT   STATE SERVICE
 22/tcp open  ssh
+MAC Address: 00:0C:29:74:F5:E2 (VMware)
 
-Nmap done: 1 IP address (1 host up) scanned in 8.30 seconds
+Nmap done: 1 IP address (1 host up) scanned in 4.43 seconds
 
-
-Starting Nmap 7.40 ( https://nmap.org ) at 2017-03-30 16:07 EDT
+Starting Nmap 7.40 ( https://nmap.org ) at 2017-03-31 19:36 EDT
 Nmap scan report for 10.3.31.243
-Host is up (0.0049s latency).
+Host is up (0.0060s latency).
 Not shown: 999 filtered ports
 PORT   STATE SERVICE
 22/tcp open  ssh
+MAC Address: 00:0C:29:47:7A:75 (VMware)
 
-Nmap done: 1 IP address (1 host up) scanned in 6.70 seconds
+Nmap done: 1 IP address (1 host up) scanned in 4.83 seconds
 
+Starting Nmap 7.40 ( https://nmap.org ) at 2017-03-31 19:36 EDT
+Nmap scan report for 10.3.31.110
+Host is up (0.000020s latency).
+All 1000 scanned ports on 10.3.31.110 are closed (500) or filtered (500)
 
-Starting Nmap 7.40 ( https://nmap.org ) at 2017-03-30 15:56 EDT
-Nmap scan report for 10.3.31.108
-Host is up (0.00019s latency).
-All 1000 scanned ports on 10.3.31.108 are closed (970) or filtered (30)
-
-Nmap done: 1 IP address (1 host up) scanned in 5.76 seconds
+Nmap done: 1 IP address (1 host up) scanned in 3.44 seconds

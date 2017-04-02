@@ -48,10 +48,10 @@ int main(int argc, char **argv) {
 	char reply[MAXDATASIZE+1];
 
 	// Write to the socket
-	sprintf(request, "LOGIN %s", username);
+	sprintf(request, "LOGIN %s\r\n", username);
 	write(sockfd, request, strlen(request));
 
-	sprintf(request, "%s", token);
+	sprintf(request, "%s\r\n", token);
 	write(sockfd, request, strlen(request));
 
 	readline(sockfd, reply, MAXDATASIZE);
